@@ -113,7 +113,7 @@ export default function Chat() {
             </h3>
             <p className="text-gray-500 max-w-sm">
               Ask me anything about our products and suppliers. Try questions
-              like "Show me all laptops" or "Which suppliers offer gaming
+              like "Which suppliers offer gaming
               accessories?"
             </p>
           </div>
