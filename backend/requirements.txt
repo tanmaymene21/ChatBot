@@ -11,5 +11,5 @@ pydantic[email]
 pydantic_settings
 langgraph
 langchain
-langchain_groq 
+langchain_groq
 groq 
